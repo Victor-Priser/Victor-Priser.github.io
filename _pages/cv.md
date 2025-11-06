@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D under the supervision of Pascal Bianchi and François Portier, Télécom P, february 2026 (expected)
+* Ph.D under the supervision of Pascal Bianchi and François Portier, Télécom Paris, february 2026 (expected)
 * Diplôme d’ingénieur (equivalent to a Master’s degree), ENSTA Paris, 2022
 
 ## Publications
