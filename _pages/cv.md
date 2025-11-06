@@ -9,30 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D under the supervision of Pascal Bianchi and François Portier, Télécom P, february 2026 (expected)
 * Diplôme d’ingénieur (equivalent to a Master’s degree), ENSTA Paris, 2022
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Interest
-======
+## Interest
 * Sports (sailing, cycling, hiking, tennis, etc.)
 * Chess 
