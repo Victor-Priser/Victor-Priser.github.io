@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'preprint'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2509.12907'
-citation: 'Priser V., Dragomir R.-A., Bianchi P.'
+citation: 'Bianchi P., Dragomir R.-A., Priser V.'
 ---
 
 We analyze a zeroth-order particle algorithm for the global optimization of a non-convex function, focusing on a variant of Consensus-Based Optimization (CBO) with small but fixed noise intensity. 

@@ -7,7 +7,7 @@ permalink: /publication/SVGD
 date: 2025-01-01
 venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=X7eAhXcps1'
-citation: 'Priser V., Bianchi P., Salim A.'
+citation: 'Bianchi P., Priser V., Salim A.'
 ---
 Stein Variational Gradient Descent (SVGD) is a widely used sampling algorithm that has been successfully applied in several areas of Machine Learning. SVGD operates by iteratively moving a set of *n* interacting particles (which represent the samples) to approximate the target distribution. 
 

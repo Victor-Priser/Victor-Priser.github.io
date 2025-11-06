@@ -7,7 +7,7 @@ permalink: /publication/MIDAS
 date: 2024-01-01
 venue: 'preprint'
 paperurl: 'https://www.arxiv.org/pdf/2409.13272'
-citation: 'Priser V., Portier F., Bianchi P., Delyon B.'
+citation: 'Bianchi P., Delyon B., Priser V., Portier F.'
 ---
 
 This paper addresses the problem of approximating an unknown probability distribution with density f — which can only be evaluated up to an unknown scaling factor — with the help of a sequential algorithm that produces at each iteration n \geq 1 an estimated density q_n.
