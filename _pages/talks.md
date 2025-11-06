@@ -18,7 +18,7 @@ author_profile: false
 ## IPP Optimization meeting (at ENSAE, Palaiseau)
 * **Title:** Long run convergence of discrete-time interacting particle systems of the McKean-Vlasov type
 * **Date:** March 2024
-* **Slides:** [Download slides](https://victor-priser.github.io/files/longRunDiapo.pdf)
+* **Slides:** [Download slides](https://victor-priser.github.io/files/LongRunDiapo.pdf)
 
 ## Posters
 * **Consensus-Based Optimization Beyond Finite-Time Analysis:** [Download Poster](https://victor-priser.github.io/files/PosterCBO.pdf)
