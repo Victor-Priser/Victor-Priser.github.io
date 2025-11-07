@@ -4,7 +4,7 @@ collection: publications
 #category: manuscripts
 permalink: /publication/SVGD
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-01-01
+date: 2024-06-01
 venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=X7eAhXcps1'
 citation: 'Bianchi P., Priser V., Salim A.'

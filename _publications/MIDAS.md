@@ -4,7 +4,7 @@ collection: preprint
 #category: conferences
 permalink: /publication/MIDAS
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-01-01
+date: 2024-09-01
 venue: 'preprint'
 paperurl: 'https://www.arxiv.org/pdf/2409.13272'
 citation: 'Bianchi P., Delyon B., Priser V., Portier F.'

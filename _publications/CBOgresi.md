@@ -4,7 +4,7 @@ collection: preprint
 #category: manuscripts
 permalink: /publication/CBOgretsi
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2025-01-01
+date: 2025-08-01
 venue: 'gretsi'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://gretsi.fr/data/colloque/pdf/2025_priser1740.pdf'

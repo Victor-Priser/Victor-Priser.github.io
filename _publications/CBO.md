@@ -4,7 +4,7 @@ collection: preprint
 #category: manuscripts
 permalink: /publication/CBO
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2025-01-01
+date: 2025-09-01
 venue: 'preprint'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2509.12907'
