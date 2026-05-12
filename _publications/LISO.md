@@ -1,3 +1,18 @@
+---
+title: "Importance Sampling Optimization with Laplace Principle"
+collection: preprint
+#category: manuscripts
+permalink: /publication/LISO
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2026-03-01
+venue: 'preprint'
+#slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://arxiv.org/pdf/2604.02882'
+citation: 'Dragomir R.-A., Portier F., Priser V.'
+---
+
+
+
 Grid search and random search are widely used techniques for hyperparameter tuning in
 machine learning, especially when gradient information is unavailable. In these methods, a
 finite set of candidate configurations is evaluated, and the best-performing one is selected.
