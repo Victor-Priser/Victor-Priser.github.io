@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -27,3 +27,10 @@ redirect_from:
 ## Interest
 * Sports (sailing, cycling, hiking, tennis, etc.)
 * Chess 
+-->
+---
+layout: redirect
+title: "CV"
+permalink: /cv/
+redirect_to: /files/CV.pdf
+---
